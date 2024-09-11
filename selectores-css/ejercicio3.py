@@ -1,2 +1,0 @@
-#LEONARDO
-print("Hola mundo")
