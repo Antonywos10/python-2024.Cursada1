@@ -1,2 +1,0 @@
-#AntonyYucra
-print("hola mundo")
